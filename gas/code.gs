@@ -28,8 +28,8 @@ const DEFAULT_FORM_FIELDS = [
 ];
 
 const DEFAULT_SETTINGS = {
-  namaSekolah: "SDN Harapan Bangsa",
-  alamat: "Jl. Pendidikan No. 123, Kota Pelajar, Indonesia 12345",
+  namaSekolah: "SMP Karya Pembangunan 1 Baleendah",
+  alamat: "Jl. Adipati Agung, No. 32 Baleendah, Bandung, Jawa Barat 40375",
   telepon: "(021) 1234-5678",
   email: "info@sdnharapanbangsa.sch.id",
   deskripsi: "Mencetak generasi penerus bangsa yang cerdas, berakhlak mulia, dan siap menghadapi tantangan masa depan dengan pendidikan berkualitas.",
